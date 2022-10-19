@@ -1,7 +1,4 @@
-//Implement a simple bank application using a smart contract with the following functionalities
-//Deposit the money
-//Allow the withdrawal by keeping a minimum balance (set minimum balance as 1 ETH)
-//Transfer money between two valid accounts
+
 
 pragma solidity ^0.4.0;
 
